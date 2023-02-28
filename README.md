@@ -1,7 +1,7 @@
 ### About this repository 
 This repository serves to track which NFTs are allowed to serve as collateral for paprMEME, which NFTs are being considered, and changes to both of these. 
 
-Feel free to open a pull request: suggesting a collection that should be moved to "in consideration" or should be allowlisted, or should be removed. 
+Feel free to open a pull request: suggesting a change to the allowlist, in-consideration, the criteria, or anything else! 
 
 ### Allowlist Criteria
 - popular but underserved
