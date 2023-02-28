@@ -1,0 +1,9 @@
+{
+  "name": "paprMEME-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-table-formatter": "^1.4.0"
+  }
+}
