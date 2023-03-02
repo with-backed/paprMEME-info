@@ -22,3 +22,8 @@ Feel free to open a pull request: suggesting a change to the allowlist, in-consi
 | PudgyPenguins             | 0xbd3531da5cf5857e7cfaa92426877b022e612cf8 | 2023-02-09 |
 | Tubby Cats                | 0xca7ca7bcc765f77339be2d648ba53ce9c8a262bd | 2023-02-09 |
 | Loot                      | 0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7 | 2023-02-09 |
+| Lil Pudgys                | 0x524cab2ec69124574082676e6f654a18df49a048 | 2023-03-02 |
+| MoonCats                  | 0xc3f733ca98e0dad0386979eb96fb1722a1a05e69 | 2023-03-02 |
+| goblintown.wtf            | 0xbce3781ae7ca1a5e050bd9c4c77369867ebc307e | 2023-03-02 |
+| Sappy Seals               | 0x364c828ee171616a39897688a831c2499ad972ec | 2023-03-02 |
+| Chimpers                  | 0x80336ad7a747236ef41f47ed2c7641828a480baa | 2023-03-02 |
