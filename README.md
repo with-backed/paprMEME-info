@@ -26,3 +26,12 @@ Feel free to open a pull request: suggesting a change to the allowlist, in-consi
 | MoonCats                  | 0xc3f733ca98e0dad0386979eb96fb1722a1a05e69 | 2023-03-02 |
 | Sappy Seals               | 0x364c828ee171616a39897688a831c2499ad972ec | 2023-03-02 |
 | Chimpers                  | 0x80336ad7a747236ef41f47ed2c7641828a480baa | 2023-03-02 |
+| Wassies by Wassies        | 0x1d20a51f088492a0f1c57f047a9e30c9ab5c07ea | 2023-04-20 |
+| Moonbirds                 | 0x23581767a106ae21c074b2276d25e5c3e136a68b | 2023-04-20 |
+| Finiliar                  | 0x5a0121a0a21232ec0d024dab9017314509026480 | 2023-04-20 |
+| World of Women            | 0xe785e82358879f061bc3dcac6f0444462d4b5330 | 2023-04-20 |
+| Art Gobblers              | 0x60bb1e2aa1c9acafb4d34f71585d7e959f387769 | 2023-04-20 |
+| Regulars                  | 0x6d0de90cdc47047982238fcf69944555d27ecb25 | 2023-04-20 |
+| DeGods                    | 0x8821bee2ba0df28761afff119d66390d594cd280 | 2023-04-20 |
+| Moonbirds Oddities        | 0x1792a96e5668ad7c167ab804a100ce42395ce54d | 2023-04-20 |
+| Pixelmon - Generation 1   | 0x32973908faee0bf825a343000fe412ebe56f802a | 2023-04-20 |
