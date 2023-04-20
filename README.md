@@ -31,6 +31,7 @@ Feel free to open a pull request: suggesting a change to the allowlist, in-consi
 | Finiliar                  | 0x5a0121a0a21232ec0d024dab9017314509026480 | 2023-04-20 |
 | World of Women            | 0xe785e82358879f061bc3dcac6f0444462d4b5330 | 2023-04-20 |
 | Art Gobblers              | 0x60bb1e2aa1c9acafb4d34f71585d7e959f387769 | 2023-04-20 |
+| Froggy Friends Official   | 0x29652c2e9d3656434bc8133c69258c8d05290f41 | 2023-04-20 |
 | Regulars                  | 0x6d0de90cdc47047982238fcf69944555d27ecb25 | 2023-04-20 |
 | DeGods                    | 0x8821bee2ba0df28761afff119d66390d594cd280 | 2023-04-20 |
 | Moonbirds Oddities        | 0x1792a96e5668ad7c167ab804a100ce42395ce54d | 2023-04-20 |
